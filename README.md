@@ -3,9 +3,6 @@
 ## Overview
 This project analyzes survey data from data professionals around the world using Power BI. The dashboard provides insights into salaries, job satisfaction, programming language preferences, and career trends.
 
-## Dashboard Preview
-
-![Dashboard](dashboard.png)
 
 ## Tools Used
 - Power BI
